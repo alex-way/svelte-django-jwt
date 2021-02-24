@@ -1,0 +1,405 @@
+[
+    {
+        "model": "core.skillcategory",
+        "pk": 1,
+        "fields": {
+            "name": "Business"
+        }
+    },
+    {
+        "model": "core.skillcategory",
+        "pk": 2,
+        "fields": {
+            "name": "Soft Skills"
+        }
+    },
+    {
+        "model": "core.skillcategory",
+        "pk": 3,
+        "fields": {
+            "name": "Marketing"
+        }
+    },
+    {
+        "model": "core.skillcategory",
+        "pk": 4,
+        "fields": {
+            "name": "Sales"
+        }
+    },
+    {
+        "model": "core.skillcategory",
+        "pk": 5,
+        "fields": {
+            "name": "Technical"
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 1,
+        "fields": {
+            "name": "Project management",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 2,
+        "fields": {
+            "name": "Process management",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 3,
+        "fields": {
+            "name": "Risk management",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 4,
+        "fields": {
+            "name": "Change management",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 5,
+        "fields": {
+            "name": "Customer service",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 6,
+        "fields": {
+            "name": "Finance",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 7,
+        "fields": {
+            "name": "Commercial acumen",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 8,
+        "fields": {
+            "name": "Strategic planning",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 9,
+        "fields": {
+            "name": "Industry knowledge and engagement",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 10,
+        "fields": {
+            "name": "Operational skills",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 11,
+        "fields": {
+            "name": "Partner management",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 12,
+        "fields": {
+            "name": "Vendor management",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 13,
+        "fields": {
+            "name": "Recruitment",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 14,
+        "fields": {
+            "name": "Training",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 15,
+        "fields": {
+            "name": "Diversity and inclusion",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 16,
+        "fields": {
+            "name": "Human resources",
+            "category": 1
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 17,
+        "fields": {
+            "name": "Challenging others",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 18,
+        "fields": {
+            "name": "Coaching",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 19,
+        "fields": {
+            "name": "Influencing others",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 20,
+        "fields": {
+            "name": "Conflict resolution",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 21,
+        "fields": {
+            "name": "Interviewing others",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 22,
+        "fields": {
+            "name": "Leadership",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 23,
+        "fields": {
+            "name": "Managing up",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 24,
+        "fields": {
+            "name": "Mentoring",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 25,
+        "fields": {
+            "name": "Networking",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 26,
+        "fields": {
+            "name": "People development",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 27,
+        "fields": {
+            "name": "Relationship and stakeholder management",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 28,
+        "fields": {
+            "name": "Team management",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 29,
+        "fields": {
+            "name": "Decision making",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 30,
+        "fields": {
+            "name": "Interpersonal skills",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 31,
+        "fields": {
+            "name": "Organisational skills",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 32,
+        "fields": {
+            "name": "Presenting and public speaking",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 33,
+        "fields": {
+            "name": "Problem solving",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 34,
+        "fields": {
+            "name": "Written skills",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 35,
+        "fields": {
+            "name": "Prioritisation",
+            "category": 2
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 36,
+        "fields": {
+            "name": "Content creation",
+            "category": 3
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 37,
+        "fields": {
+            "name": "Event management",
+            "category": 3
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 38,
+        "fields": {
+            "name": "Social media",
+            "category": 3
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 39,
+        "fields": {
+            "name": "Internal / external communications",
+            "category": 3
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 40,
+        "fields": {
+            "name": "Account management and development",
+            "category": 4
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 41,
+        "fields": {
+            "name": "Forecasting",
+            "category": 4
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 42,
+        "fields": {
+            "name": "Negotiation skills",
+            "category": 4
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 43,
+        "fields": {
+            "name": "Solution sales",
+            "category": 4
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 44,
+        "fields": {
+            "name": "Technical sales",
+            "category": 4
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 45,
+        "fields": {
+            "name": "Sales enablement",
+            "category": 4
+        }
+    },
+    {
+        "model": "core.skill",
+        "pk": 46,
+        "fields": {
+            "name": "Data analysis",
+            "category": 5
+        }
+    }
+]

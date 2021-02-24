@@ -1,0 +1,13 @@
+node_modules/
+public/build/
+
+.DS_Store
+__pycache__/
+
+.snowpack
+build
+
+yarn-error.log
+__sapper__/
+
+db.sqlite3
